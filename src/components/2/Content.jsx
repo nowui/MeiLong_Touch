@@ -56,7 +56,7 @@ class Content extends Component {
         swiper = new Swiper('.swiper-container', {
           pagination: '.swiper-pagination',
           direction: 'vertical',
-          slidesPerView: 3,
+          slidesPerView: 2,
           loop: true
         })
 
